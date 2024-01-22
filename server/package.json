@@ -1,0 +1,17 @@
+{
+  "name": "test-assignment-titan",
+  "version": "1.0.0",
+  "description": "Test assignment for Titan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mishalisovyi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "puppeteer": "^21.7.0"
+  }
+}
